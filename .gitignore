@@ -3,3 +3,10 @@ out/
 .claude/
 *.class
 *.iml
+.vscode/
+.project
+.classpath
+.settings/
+*.ipr
+*.iws
+.DS_Store
